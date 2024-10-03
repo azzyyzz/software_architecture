@@ -1,6 +1,7 @@
 # Video Processing Pipeline (Pipes and Filters Pattern)
 
 This project implements a **video processing pipeline** using the **Pipes and Filters** architectural pattern. The pipeline applies a series of filters (such as black-and-white conversion, flipping, cropping, and resizing) to video frames in sequence.
+- [Demo Video](https://youtu.be/uSHgqy1pG10)
 
 ## Features
 - **Modular filters**: Each filter is implemented as a separate class, making it easy to add, remove, or modify filters.

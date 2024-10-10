@@ -14,6 +14,7 @@ A simple Twitter-like system implemented in Go using Gin and PostgreSQL. Users c
 ## Requirements
 
 - Docker
+- Golang
 - PostgreSQL
 
 ## Setup Instructions

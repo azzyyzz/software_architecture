@@ -1,6 +1,7 @@
 # Software Architecure A5
 
 A simple Twitter-like system implemented in Go using Gin and PostgreSQL. Users can register, post messages, read messages, and like them.
+- [Demo Video](https://youtu.be/ArYkmDmi2_Q)
 
 ## Features
 

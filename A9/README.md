@@ -1,7 +1,7 @@
 # Anonymous Chat Application
 
 Python code for an event-driven system. It uses Python with RabbitMQ. It takes message as input, then `Filter Service` checks if the message contains the stop words - `[mango, ailurophobia, mango]`. If there are not stop words, the message is then collected by `Screaming Service` which makes all letters UPPERCASE. Finally, the message is sent to the specified email by `Publisher Service`.
-- [Demo Video](https://youtu.be/3h-jmV_pTlk)
+- [Demo Video](https://youtu.be/AK7NCfnLJ5g)
 
 ## Project Structure
 
